@@ -1,0 +1,6 @@
+{
+  "name": "Botanical Haute Couture - Luxury Floral Atelier",
+  "description": "Artisanal floral arrangements, bespoke botanical lookbooks, live dedication cards, and direct WhatsApp concierge ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
